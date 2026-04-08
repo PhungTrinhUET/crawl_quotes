@@ -57,15 +57,45 @@ The primary goal of this project was to analyze coffee price trends in Vietnam b
 
 ### Price Trend Over Time
 
-![Price Trend](images/price_trend.png)
+![Price Trend](chart_01_price_trend.png)
 
 *Figure 1: Coffee price trend over the analysis period.*
 
+### Daily Price Changes
+
+![Daily Change](chart_02_daily_change.png)
+
+*Figure 2: Daily price changes (green = increase, red = decrease).* 
+
+### Monthly Price Distribution
+
+![Boxplot by Month](chart_03_boxplot_by_month.png)
+
+*Figure 3: Monthly price distribution (Box = Q1-Q3, Line = Median, ◊ = Mean).* 
+
+### Weekly Price Analysis
+
+![Weekly Analysis](chart_04_weekly_analysis.png)
+
+*Figure 4: Weekly price analysis (Bars = Average Price, Line = Standard Deviation).* 
+
+### Monthly Summary
+
+![Monthly Summary](chart_05_monthly_summary.png)
+
+*Figure 5: Monthly summary of coffee prices.* 
+
+### Up and Down Days
+
+![Up and Down Days](chart_06_up_down_days.png)
+
+*Figure 6: Number of up and down days in the analysis period.* 
+
 ### Price Distribution
 
-![Price Distribution](images/price_distribution.png)
+![Price Distribution](chart_07_price_distribution.png)
 
-*Figure 2: Distribution of coffee prices.*
+*Figure 7: Distribution of coffee prices.*
 
 ---
 
