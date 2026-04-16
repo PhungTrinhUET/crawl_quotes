@@ -1,0 +1,5 @@
+FIXED
+Total: 2444
+URLs remaining: 0
+Short texts: 2
+All content meaningful: True

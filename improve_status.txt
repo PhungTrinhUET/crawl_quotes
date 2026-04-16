@@ -1,0 +1,4 @@
+SUCCESS
+Total: 2444
+Different content_text: 2444
+Percentage: 100%
